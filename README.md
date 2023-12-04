@@ -32,3 +32,7 @@ pandoc \
 * [ ] checkbox
 * [ ] syntax highlight
 * [ ] TOC
+
+## gallery
+
+![styles](assets/styles.png)
