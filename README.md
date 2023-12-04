@@ -26,3 +26,9 @@ pandoc \
     --pdf-engine wkhtmltopdf -t html5 \
     --css lapis.css -o output.pdf
 ```
+
+## TODO
+
+* [ ] checkbox
+* [ ] syntax highlight
+* [ ] TOC
